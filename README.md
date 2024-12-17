@@ -5,3 +5,8 @@ Consisting a website which works on a 'FAKE' API call and displays the results
 
 Need to work more on request optimization and adding more features
 Need to add a better UI/UX and good routing features
+
+
+
+** HOW TO START ** 
+npm start 
